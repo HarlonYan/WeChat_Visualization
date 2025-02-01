@@ -1,3 +1,8 @@
+# 演示
+![gif.gif](https://s2.loli.net/2025/02/01/iO4CzH8jNkZKuJU.gif)
+![1.png](https://s2.loli.net/2025/02/01/DKyRgfXaslcP1uF.png)
+![2.png](https://s2.loli.net/2025/02/01/fJmZ1GrUAuRjFwe.png)
+![3.png](https://s2.loli.net/2025/02/01/tSaUJzv5TBXVn7W.png)
 # 下载wechat_visualization压缩包
 下载压缩包，解压到本地
 
