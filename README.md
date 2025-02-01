@@ -38,15 +38,15 @@ CONFIGS = {
 }
 ```
 
-![image-20250201223051019](C:\Users\YHL\AppData\Roaming\Typora\typora-user-images\image-20250201223051019.png)
+![image-20250201223051019](E:\00_DeskTop\03_其他\1000天纪念可视化\发布\ReadMe_images\image-20250201223051019.png)
 
-![image-20250201223203403](C:\Users\YHL\AppData\Roaming\Typora\typora-user-images\image-20250201223203403.png)
+![image-20250201223203403](E:\00_DeskTop\03_其他\1000天纪念可视化\发布\ReadMe_images\image-20250201223203403.png)
 
 # 一键运行代码
 
 打开*main.py*运行。等待代码运行完成，结果会输出在output文件夹之中
 
-![image-20250201223603947](C:\Users\YHL\AppData\Roaming\Typora\typora-user-images\image-20250201223603947.png)
+![image-20250201223603947](E:\00_DeskTop\03_其他\1000天纪念可视化\发布\ReadMe_images\image-20250201223603947.png)
 
 # 下载Tableau
 
@@ -64,4 +64,4 @@ CONFIGS = {
 
 点击下面 仪表盘 即可看到数据的可视化结果。
 
-![image-20250201224833518](C:\Users\YHL\AppData\Roaming\Typora\typora-user-images\image-20250201224833518.png)
+![image-20250201224833518](E:\00_DeskTop\03_其他\1000天纪念可视化\发布\ReadMe_images\image-20250201224833518.png)
