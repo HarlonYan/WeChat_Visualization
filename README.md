@@ -37,17 +37,14 @@ CONFIGS = {
     "authorization": "Z1txoFcearzJacrereqfGCUlUaqHTHg8ac",
 }
 ```
-<img src="https://github.com/HarlonYan/WeChat_Visualization/tree/main/ReadMe_images/image-20250201223051019.png" width="210px">
-
-![image-20250201223051019](https://github.com/HarlonYan/WeChat_Visualization/tree/main/ReadMe_images/image-20250201223051019.png)
-
-![image-20250201223203403](https://github.com/HarlonYan/WeChat_Visualization/tree/main/ReadMe_images/image-20250201223203403.png)
+![image-20250201223051019.png](https://s2.loli.net/2025/02/01/4P6HfGgwZVW52Rd.png)
+![image-20250201223203403.png](https://s2.loli.net/2025/02/01/gAT5EBFonMUC4Qc.png)
 
 # 一键运行代码
 
 打开*main.py*运行。等待代码运行完成，结果会输出在output文件夹之中
 
-![image-20250201223603947](https://github.com/HarlonYan/WeChat_Visualization/tree/main/ReadMe_images/image-20250201223603947.png)
+![image-20250201223603947.png](https://s2.loli.net/2025/02/01/5nPQoVXqRG2TeMh.png)
 
 # 下载Tableau
 
@@ -65,4 +62,4 @@ CONFIGS = {
 
 点击下面 仪表盘 即可看到数据的可视化结果。
 
-![image-20250201224833518](https://github.com/HarlonYan/WeChat_Visualization/tree/main/ReadMe_images/image-20250201224833518.png)
+![image-20250201224833518.png](https://s2.loli.net/2025/02/01/zit6bQp5ZA2scG3.png)
