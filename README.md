@@ -1,4 +1,4 @@
-# 演示
+# 效果图
 ![gif.gif](https://s2.loli.net/2025/02/01/iO4CzH8jNkZKuJU.gif)
 ![1.png](https://s2.loli.net/2025/02/01/DKyRgfXaslcP1uF.png)
 ![2.png](https://s2.loli.net/2025/02/01/fJmZ1GrUAuRjFwe.png)
