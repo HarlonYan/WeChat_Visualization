@@ -1,4 +1,4 @@
-# 下载we_chat visualization压缩包
+# 下载wechat_visualization压缩包
 下载压缩包，解压到本地
 
 # 使用软件下载聊天纪录元数据
