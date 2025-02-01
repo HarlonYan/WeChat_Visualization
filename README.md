@@ -37,6 +37,7 @@ CONFIGS = {
     "authorization": "Z1txoFcearzJacrereqfGCUlUaqHTHg8ac",
 }
 ```
+<img src="https://github.com/HarlonYan/WeChat_Visualization/tree/main/ReadMe_images/image-20250201223051019.png" width="210px">
 
 ![image-20250201223051019](https://github.com/HarlonYan/WeChat_Visualization/tree/main/ReadMe_images/image-20250201223051019.png)
 
