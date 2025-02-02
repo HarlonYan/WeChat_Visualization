@@ -32,7 +32,7 @@ sender_dic = {'wxid_8agcmdewxwebm12':'Boy','wxid_ks2r97efface24ra12':'Girl'}
 
 打开*main.py*，修改第101行代码。修改之前你首先需要注册SMMS图床账号
 
-[SMMS官网](https://smms.app/)
+[SMMS官网](https://sm.ms/)
 
 注册完账号后，进入个人空间，获取api token，将其复制到"authorization"的后面，注意token要加引号
 
