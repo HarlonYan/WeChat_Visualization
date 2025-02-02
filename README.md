@@ -3,6 +3,10 @@
 ![1.png](https://s2.loli.net/2025/02/01/DKyRgfXaslcP1uF.png)
 ![2.png](https://s2.loli.net/2025/02/01/fJmZ1GrUAuRjFwe.png)
 ![3.png](https://s2.loli.net/2025/02/01/tSaUJzv5TBXVn7W.png)
+
+# 详情图
+![details_1.jpg](https://s2.loli.net/2025/02/02/C8rLTaxbVNiWI96.jpg)
+
 # 下载wechat_visualization压缩包
 下载压缩包，解压到本地
 
